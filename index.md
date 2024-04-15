@@ -4,4 +4,4 @@ layout: minimal
 ---
 # Editing Auto-Generated Captions
 ## What are auto-generated captions?
-lorem ipsum etc etc
+lorem ipsum etc etc etc
