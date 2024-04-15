@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Editing Auto-Generated Captions
+description: A beginner's guide to editing computer generated captions to make them accessible and useful.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://kaianicole.github.io/edit-asr-captions/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
