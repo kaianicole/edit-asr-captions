@@ -56,3 +56,5 @@ lorem ipsum
 - Edit script/transcript, upload for alignment
 - Transcribe from scratch (not recommended)
 - Pay for professional captioning
+
+## Resources
