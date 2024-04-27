@@ -39,6 +39,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 
 ### Video with unedited captions
 <figure>
+	<video>
   <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
   	<track
     label="English"
@@ -58,6 +59,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 
 ### Video with edited captions
 <figure>
+	<video>
   <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
   	<track
     label="English"
