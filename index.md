@@ -49,6 +49,16 @@ Auto-generated captions, also known as automatic captions or Automatic Speech Re
 	</figcaption>
 </figure>
 
+### Test video
+<figure> <video width="560" height="315" controls>
+  <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+<figcaption>
+	<p>caption</p>
+</figcaption>
+</figure>
+
 ### When to add
 When producing a video, build in time towards the end of your project for editing captions. Be sure that you've made all needed edits to your media, then upload it to your video hosting platform of choice (for example, YouTube). If you edit your captions, and then need to change your media, you will have to start over. Your video platform will take some time to generate captions. Once complete, you can edit them as a final step before publishing.
 
