@@ -26,8 +26,10 @@ Auto-generated captions, also known as automatic captions or Automatic Speech Re
 <figure>
 	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fvPtzsrFg2k?si=UZletOgJPLNYPKSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	<figcaption>
-		<p>Unedited caption text</p>
+		<details>
+		<summary><strong>Text of unedited captions</strong></summary>
 		<p>that whole process of galaxies forming and evolving over 13 plus billion years uh we've learned a lot about that but we're really missing a key piece of the puzzle which is how galaxies got their start so that's the piece that we haven't seen yet and that's the piece the James web Space Telescope will allow us to see for the very first time so the first stars in galaxies are really the big mystery for us we don't know how that happened we don't know when it happened we have a pretty good idea that they were very much larger than the Sun and that they would burn out in a tremendous burst of Glory in just a few million years which is really very short but they would also prepare the way for further generations of stars like the sun to be formed so those first Stars would produce the chemical elements of Life carbon and oxygen and nitrogen and iron and sulfur and calcium and all the things that were made of would have been produced in those first generations of stars that then explode and Liberate the material back out into space so the next generation of stars could form with planets with solid bodies and possibly have life</p>
+	</details>
 	</figcaption>
 </figure>
 
