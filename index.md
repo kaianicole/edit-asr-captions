@@ -33,6 +33,22 @@ Auto-generated captions, also known as automatic captions or Automatic Speech Re
 	</figcaption>
 </figure>
 
+### Video with edited captions
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vZ_OeFce1C8?si=wz8OS7EcI8R36YBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<figcaption>
+		<details>
+		<summary>Text of edited captions</summary>
+		<p>Dr. Straughn: That whole process of galaxies <br/>
+		forming and evolving over 13+ billion years,</p>
+		<p>we've learned a lot about that, <br/>
+		but we're really missing</p>
+		<p>a key piece of the puzzle,<br/>
+		which is how galaxies got their start.</p>
+	</details>
+	</figcaption>
+</figure>
+
 ### When to add
 When producing a video, build in time towards the end of your project for editing captions. Be sure that you've made all needed edits to your media, then upload it to your video hosting platform of choice (for example, YouTube). If you edit your captions, and then need to change your media, you will have to start over. Your video platform will take some time to generate captions. Once complete, you can edit them as a final step before publishing.
 
