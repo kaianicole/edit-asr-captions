@@ -20,6 +20,15 @@ This guide is designed for people new to providing closed captions on video. Thi
 ## About auto-generated captions
 Auto-generated captions, also known as automatic captions or Automatic Speech Recognition (ASR) captions, use machine learning to turn audio into written text. These captions can be highly accurate. However, they need a human editor to fix mistakes and add elements like speaker names or sound effects to the captions for full accessibility. 
 
+## Before and after editing
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fvPtzsrFg2k?si=UZletOgJPLNYPKSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<figcaption open="open">
+		<summary>Unedited caption text</summary>
+		<pre>that whole process of galaxies forming and evolving over 13 plus billion years uh we've learned a lot about that but we're really missing a key piece of the puzzle which is how galaxies got their start so that's the piece that we haven't seen yet and that's the piece the James web Space Telescope will allow us to see for the very first time so the first stars in galaxies are really the big mystery for us we don't know how that happened we don't know when it happened we have a pretty good idea that they were very much larger than the Sun and that they would burn out in a tremendous burst of Glory in just a few million years which is really very short but they would also prepare the way for further generations of stars like the sun to be formed so those first Stars would produce the chemical elements of Life carbon and oxygen and nitrogen and iron and sulfur and calcium and all the things that were made of would have been produced in those first generations of stars that then explode and Liberate the material back out into space so the next generation of stars could form with planets with solid bodies and possibly have life</pre>
+	</figcaption>
+</figure>
+
 ### When to add
 When producing a video, build in time towards the end of your project for editing captions. Be sure that you've made all needed edits to your media, then upload it to your video hosting platform of choice (for example, YouTube). If you edit your captions, and then need to change your media, you will have to start over. Your video platform will take some time to generate captions. Once complete, you can edit them as a final step before publishing.
 
