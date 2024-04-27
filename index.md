@@ -52,6 +52,12 @@ Auto-generated captions, also known as automatic captions or Automatic Speech Re
 ### Test video
 <figure> <video width="560" height="315" controls>
   <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
+  	<track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="videos/Evolution_of_Galaxies_H264~medium_captions-en.vtt"
+    default />
   Your browser does not support the video tag.
 </video> 
 <figcaption>
