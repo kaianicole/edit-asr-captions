@@ -243,7 +243,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 </video> 
 	<figcaption>
 		<details>
-		<summary>Caption Text</summary>
+		<summary>Text of captions with multiple speakers</summary>
 		<h5>Unedited captions: Multiple speakers</h5>
 		<p>so crew doesn't have to actually place a<br/>
 		camera the ground can just fly up the crew</p>
@@ -281,6 +281,40 @@ Auto-generated captions will generally only capture speech. For captions to be e
 - For background musice, write a short description that indicates mood. `[gentle piano music]`
 - Sound effects or environmental sounds can also be capture in brackets, `[applause]`, `[cow mooing]` or in onomatopoeia `Mooooo`.
 - When relevant, capture the source of a sound. `[audience laughter]`  
+
+#### Example of music in captions
+<figure>
+<video width="560" height="315" controls>
+  <source src=“videos/MusicExample.mp4” type="video/mp4">
+  	<track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src=“videos/MusicExample_captions-en.vtt”
+    default />
+  Your browser does not support the video tag.
+</video> 
+	<figcaption>
+		<details>
+		<summary>Text of captions with music</summary>
+		<p>(Florence Tan)<br/>
+			To commemorate SAM's birthday<br/>
+		and Curiosity's birthday on Mars,</p>
+		<p>we decided to play a little song.</p>
+		<p>If there's anyone listening on Mars<br/>
+		on this special occasion,</p>
+		<p>you will hear this.</p>
+		<p>[Computer tones playing Happy Birthday song]</p>
+		<p>(Florence Tan)<br/>
+			It's really neat,<br/>
+		and it's exciting.</p>
+		<p>This is a first for NASA,<br/>
+		and for the world.</p>
+		<p>And music brings us all together,<br/>
+		so this is fun.</p>
+	</details>
+	</figcaption>
+</figure>
 
 #### Do I need to capture every sound?
 {: .no_toc}
