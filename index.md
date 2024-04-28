@@ -361,5 +361,5 @@ Videos used for examples are published by NASA and are in the public domain. Spe
 - [Happy Birthday Curiosity](https://images.nasa.gov/details/GSFC_20130805_HappyBirthday_m11331_Curiosity)
 
 ## Area for testing
- {: .warning }
+ {: .warning}
  Paragraph of text

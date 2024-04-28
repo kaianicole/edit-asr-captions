@@ -15,12 +15,9 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Change link color
-$link-color: $blue-000;
-
-# Callouts
+# Add/define callouts
 callouts:
   warning:
-    title: Warning
-    color: red
+    title: Warninge
+    color: blue
 
