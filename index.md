@@ -253,11 +253,11 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		can also interact with the robot oh cool</p>
 		<h5>Edited captions: Multiple speakers</h5>
 		<p>(Maria)<br/>
-			So, crew doesn't have<br/>
+		So, crew doesn't have<br/>
 		to actually place a camera.</p>
 		<p>The ground contollers can just fly up--</p>
 		<p>(Host #1)<br/>
-		So the crew can take all of the Selfies that they want?</p>
+		So the crew can take all of the selfies that they want?</p>
 		<p>[Laughter]<br/>
 		[Crosstalk]</p>
 		<p>(Host #2)<br/>
@@ -337,6 +337,8 @@ The caption generator should set up the caption timings for you. You can manuall
 ### Position
 Many of the caption generators mentioned in this guide do not have settings for the position of the captions. If you can change this, make sure captions don't cover up other text. Keep them in a consistent spot.
 
+#### Tip: Plan for captions
+When producing your video, find out in advance where captions will be placed in the video platforms you will use. Make sure nothing appears in this space that will be covered up by captions (such as title cards, etc.) Alternatively, leave black space below the video for captions to display.
 ***
 
 ## Other approaches to captioning
@@ -352,4 +354,12 @@ This approach to editing captions is just one method. Depending on your workflow
 This guide is based on the [Described and Captioned Media Program's Captioning Key](https://dcmp.org/learn/captioningkey). While this guide will get you started in editing quality captions, the list of recommendations is not exhaustive. Consult the Captioning Key for more details.
 
 ## Credits
-Videos used for examples come from the public domain. For a list of videos used, visit [Editing Auto-Generated Captions: Credits](credits.md)
+Videos used for examples are published by NASA and are in the public domain. Specific videos include:
+- [Evolution of Galaxies](https://images.nasa.gov/details/Evolution_of_Galaxies_H264)
+- [NASA Astronauts Celebrate Asian American and Pacific Islander (AAPI) Heritage Month 2021 Advancing Leaders Through Purpose-Driven Service](https://images.nasa.gov/details/NASA%20Astronauts%20Celebrate%20Asian%20American%20and%20Pacific%20Islander%20%28AAPI%29%20Heritage%20Month%202021%20Advancing%20Leaders%20Through%20Purpose-Driven%20Service)
+- [NASA in Silicon Valley Live - Halloween Costume and Cosplay Contest](https://images.nasa.gov/details/ARC-20181030-AAV3146-NiSVLive-Ep05-NASAWeb)
+- [Happy Birthday Curiosity](https://images.nasa.gov/details/GSFC_20130805_HappyBirthday_m11331_Curiosity)
+
+## Area for testing
+ {: .warning }
+ Paragraph of text
