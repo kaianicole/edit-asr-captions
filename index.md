@@ -72,7 +72,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 	<figcaption>
 		<details>
 		<summary>Text of edited captions</summary>
-		<p>[Dr. Straughn]<br/>
+		<p>(Dr. Straughn)<br/>
 			That whole process of galaxies<br/>
 		forming and evolving over 13+ billion years,</p>
 		<p>we've learned a lot about that,<br/>
@@ -83,7 +83,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 		and that's the piece</p>
 		<p>the James Webb Space Telescope <br/>
 		will allow us to see for the very first time.</p>
-		<p>[Dr. Mather]<br/>
+		<p>(Dr. Mather)<br/>
 			So the first stars in galaxies<br/>
 		are really the big mystery for us.</p>
 		<p>We don't know how that happened.</p>
@@ -115,7 +115,9 @@ Compare the closed captions on the two videos below. The first video uses captio
 	</figcaption>
 </figure>
 
-## Key principles
+***
+
+## Guiding principles
 When editing captions, best practices and guidelines can help you craft useful and accessible captions. However, all caption editors will have to make judgement calls about what to include and how to describe something. When making decisions, keep these principles in mind.
 > - Accurate: Errorless captions are the goal for each production.
 > - Consistent: Uniformity in style and presentation of all captioning features is crucial for viewer understanding.
@@ -166,8 +168,6 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 - If the crosstalk is brief enough, include one person's line right after the other (with speaker names). 
 - If there is a dominant voice that continues, capture the dominant voice.
 
-*add before/after example here*
-
 ### General practices
 - Numbers: spell out one to ten, use numerals for the rest. 
 	- Spell out numbers at the beginning of sentence. 
@@ -184,18 +184,15 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 In addition to fixing errors made in the auto-generated captions, there may be additional information you need to add to the captions to make them useful.
 
 ### Speaker names
-If you have more than one voice speaking, you should capture who is speaking. To do so, add the speaker's name before the caption segment each time the speaker switches. There are several standard ways to denote a speaker, including
-`(Speaker Name)
+If you have more than one voice speaking, you should capture who is speaking. To do so, add the speaker's name before the caption segment each time the speaker switches. There are several standard ways to denote a speaker:
+-`(Speaker Name)
 Captioned line of text`
-
-or 
-
-`Speaker Name: Captioned line of text`
+-`Speaker Name: Captioned line of text`
 
 Whichever method you choose, keep the following points in mind.
 - Use a consistent method throughout the video
 - Do not add the speaker information before every caption segment, only when the speaker switches
-- If you do not know a speaker's name, use an alternative such as (Speaker #1) or (Narrator). 
+- If you do not know a speaker's name, use an alternative such as `(Speaker #1)` or `(Narrator)`. 
 
 *add before/after example here*
 
@@ -241,3 +238,6 @@ This approach to editing captions is just one method. Depending on your workflow
 
 ## Resources
 This guide is based on the [Described and Captioned Media Program's Captioning Key](https://dcmp.org/learn/captioningkey). While this guide will get you started in editing quality captions, the list of recommendations is not exhaustive. Consult the Captioning Key for more details.
+
+## Credits
+Videos used for examples come from the public domain. For a list of videos used, visit [Editing Auto-Generated Captions: Credits](credits.md)
