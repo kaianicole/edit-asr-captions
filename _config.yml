@@ -22,7 +22,7 @@ color_scheme: nil
 
 callouts_level: quiet
 callouts:
-  highlight:
+  question:
     color: yellow
   important:
     title: Important
@@ -31,7 +31,6 @@ callouts:
     title: New
     color: green
   tip:
-    title: Tip
     color: purple
   warning:
     title: Warning
