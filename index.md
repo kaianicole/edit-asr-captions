@@ -174,7 +174,7 @@ Captioning conventions vary on how they approach these situations. Make editoria
 {: .no_toc}
 <figure>
 <video width="560" height="315" controls preload="auto">
-  <source src=“videos/QuotationExample.mp4” type="video/mp4">
+  <source src=“videos/FirstExample.mp4” type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
