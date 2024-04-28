@@ -360,6 +360,8 @@ Videos used for examples are published by NASA and are in the public domain. Spe
 - [NASA in Silicon Valley Live - Halloween Costume and Cosplay Contest](https://images.nasa.gov/details/ARC-20181030-AAV3146-NiSVLive-Ep05-NASAWeb)
 - [Happy Birthday Curiosity](https://images.nasa.gov/details/GSFC_20130805_HappyBirthday_m11331_Curiosity)
 
+This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll.
+
 ## Area for testing
- {: .note}
- Paragraph of text
+{: .note }
+> Paragraph of text
