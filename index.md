@@ -174,12 +174,12 @@ Captioning conventions vary on how they approach these situations. Make editoria
 {: .no_toc}
 <figure>
 <video width="560" height="315" controls preload="auto">
-  <source src=“videos/FirstExample.mp4” type="video/mp4">
+  <source src="videos/QuotationExample.mp4" type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
     srclang="en"
-    src=“videos/QuotationExample_captions-en.vtt”
+    src="videos/QuotationExample_captions-en.vtt"
     default />
   Your browser does not support the video tag.
 </video> 
@@ -232,12 +232,12 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 {: .no_toc}
 <figure>
 <video width="560" height="315" controls>
-  <source src=“videos/MultipleSpeakersExample.mp4” type="video/mp4">
+  <source src="videos/MultipleSpeakersExample.mp4" type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
     srclang="en"
-    src=“MultipleSpeakersExample_captions-en.vtt”
+    src="MultipleSpeakersExample_captions-en.vtt"
     default />
   Your browser does not support the video tag.
 </video> 
@@ -285,12 +285,12 @@ Auto-generated captions will generally only capture speech. For captions to be e
 #### Example of music in captions
 <figure>
 <video width="560" height="315" controls>
-  <source src=“videos/MusicExample.mp4” type="video/mp4">
+  <source src="videos/MusicExample.mp4" type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
     srclang="en"
-    src=“videos/MusicExample_captions-en.vtt”
+    src="videos/MusicExample_captions-en.vtt"
     default />
   Your browser does not support the video tag.
 </video> 
