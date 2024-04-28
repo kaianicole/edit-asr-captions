@@ -173,7 +173,7 @@ Captioning conventions vary on how they approach these situations. Make editoria
 #### Example of quoted material
 {: .no_toc}
 <figure>
-<video width="560" height="315" controls>
+<video width="560" height="315" controls preload="auto">
   <source src=“videos/QuotationExample.mp4” type="video/mp4">
   	<track
     label="English"
