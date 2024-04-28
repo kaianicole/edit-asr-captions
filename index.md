@@ -363,5 +363,7 @@ Videos used for examples are published by NASA and are in the public domain. Spe
 This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll.
 
 ## Area for testing
-> Paragraph of text
-{: .warning }
+> Title of text
+>
+> Body of text
+{: .highlight-title }

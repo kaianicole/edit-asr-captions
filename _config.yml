@@ -30,8 +30,8 @@ callouts:
   new:
     title: New
     color: green
-  note:
-    title: Note
+  tip:
+    title: Tip
     color: purple
   warning:
     title: Warning
