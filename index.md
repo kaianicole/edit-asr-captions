@@ -135,8 +135,6 @@ Depending on the platform used, the auto-generated captions may or may not have 
 
 As humans do not always speak in fully formed, gramatically correct sentences, use your best judgement. In general, simple punctuation and multiple shorter sentences are better. Remember, only a portion of the sentence will appear on screen at a time, so use parenthesis and semi-colons sparingly. Your edits should support understanding, not distract. 
 
-*add before/after example here*
-
 ### Spelling
 Check the spelling of words and that the auto-generated captions have the correct word. Some caption editors will have spellcheck built in.
 #### Common errors
@@ -152,26 +150,24 @@ If you notice that a mistake is repeated, many caption editors have a find and r
 
 #### What if you can't tell what a word/sound is?
 {: .no_toc}
-Sometimes the audio quality or background noises make it difficult to tell what was said. Make a best effort to figure out what the missing word is, and consult a second person. If the word is still not identified, type `[inaudible]`. Do not guess.
+Sometimes the audio quality or background noises make it difficult to tell what was said. Make a best effort to figure out what the missing word is, and consult a second person. If the word is still not identified, add `[inaudible]`. Do not guess.
 
 ### False starts, filler words, repeated words, and more
 Many speakers may use filler words (um, uh) or repeat the same word multiple times in a row while they speak. They may also make a false start in their speech, then start over. These elements do not need to be captured in captions.
 - Delete filler words
 - Only use one instance of a repeated or stammered word
-- If their false start is brief, just include the actual start.
+- If the false start is brief, just include the actual start.
 
-While captioning conventions can vary on how they approach these situations, use your judgement to support understandability and readability of the captions. 
-
-
+Captioning conventions vary on how they approach these situations. Make editorial choices that prioritize understandability and readability of the captions. 
 
 ### General practices
-- Numbers: spell out one to ten, use numerals for the rest. 
-	- Spell out numbers at the beginning of sentence. 
+- Numbers: spell out `one` to `ten`, use numerals for the rest. 
+	- Spell out numbers at the beginning of sentence. `Thirty people attended the event.`
 	- Do not mix methods spelled out and numerals in the same sentence, but choose one method and stick with it.
 	- There are many different considerations with numbers. If you want to explore more, visit the [DCMP Captioning Key - Numbers](https://dcmp.org/learn/captioningkey/606)
-- Capitalization: follow normal capitalization conventions. Only use all caps to indicate shouting
-- Spelling: If a speaker spells out a word, type out the letters with dashes between. For example: H-E-L-L-O
-- Websites: Put in the url as it would appear in a browser, even if the speaker spells it out
+- Capitalization: follow normal capitalization conventions. All caps indicates shouting. Use sparingly.
+- Spelling: If a speaker spells out a word, type out the letters with dashes between. For example: `H-E-L-L-O`
+- Websites: Put in the url as it would appear in a browser, even if the speaker spells it out. `www.dcmp.org`
 - Quoted material: If the speaker is quoting/reading someone else, but a quotation mark at the front of each caption segment. Do not add a closing segment until they are finished.
 
 ***
@@ -221,13 +217,13 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		<p>a touchcreen on the front also so that crew<br/>
 		can also interact with the robot oh cool</p>
 		<h5>Edited captions: Multiple speakers</h5>
-		<p>(Maria)</br>
+		<p>(Maria)<br/>
 			So, crew doesn't have<br/>
 		to actually place a camera.</p>
 		<p>The ground contollers can just fly up--</p>
-		<p>(Host #1)<br>
+		<p>(Host #1)<br/>
 		So the crew can take all of the Selfies that they want?</p>
-		<p>[Laughter]</br>
+		<p>[Laughter]<br/>
 		[Crosstalk]</p>
 		<p>(Host #2)<br/>
 			That's actually the goal here,<br/>
