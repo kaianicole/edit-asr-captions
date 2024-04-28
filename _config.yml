@@ -15,9 +15,23 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Add/define callouts
+# Color scheme
+color_scheme: nil
+
+callouts_level: quiet
 callouts:
-  warning:
-    title: Warninge
+  highlight:
+    color: yellow
+  important:
+    title: Important
     color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
