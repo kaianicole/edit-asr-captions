@@ -155,7 +155,7 @@ Watch for these common errors in your captions.
 > What if you can't tell what a word/sound is?
 > 
 > Sometimes the audio quality or background noises make it difficult to tell what was said. Make a best effort to figure out what the missing word is, and consult a second person. If the word is still not identified, add `[inaudible]`. Do not guess.
-{: .question-title }
+{: .important-title }
 
 ### False starts, filler words, repeated words, and more
 Many speakers may use filler words (um, uh) or repeat the same word multiple times in a row while they speak. They may also make a false start in their speech, then start over. These elements do not need to be captured in captions.
