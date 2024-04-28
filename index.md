@@ -162,11 +162,7 @@ Many speakers may use filler words (um, uh) or repeat the same word multiple tim
 
 While captioning conventions can vary on how they approach these situations, use your judgement to support understandability and readability of the captions. 
 
-### Crosstalk
-Crosstalk, when two or more speakers talk at the same time, can be another challenge to capture in captions. Note the crosstalk in captions with `[crosstalk]`. Then, there are several approaches.
-- If you cannot decipher what is said, use `[crosstalk]` to note this
-- If the crosstalk is brief enough, include one person's line right after the other (with speaker names). 
-- If there is a dominant voice that continues, capture the dominant voice.
+
 
 ### General practices
 - Numbers: spell out one to ten, use numerals for the rest. 
@@ -194,7 +190,58 @@ Whichever method you choose, keep the following points in mind.
 - Do not add the speaker information before every caption segment, only when the speaker switches
 - If you do not know a speaker's name, use an alternative such as `(Speaker #1)` or `(Narrator)`. 
 
-*add before/after example here*
+#### Crosstalk
+{: .no_toc}
+Crosstalk, when two or more speakers talk at the same time, can be another challenge to capture in captions. Note the crosstalk in captions with `[crosstalk]`. Then, there are several approaches.
+- If you cannot decipher what is said, use `[crosstalk]` to note this
+- If the crosstalk is brief enough, include one person's line right after the other (with speaker names). 
+- If there is a dominant voice that continues, capture the dominant voice.
+
+#### Example of capturing speaker names and crosstalk
+{: .no_toc}
+<figure>
+<video width="560" height="315" controls>
+  <source src=“videos/MultipleSpeakersExample.mp4” type="video/mp4">
+  	<track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src=“MultipleSpeakersExample_captions-en.vtt”
+    default />
+  Your browser does not support the video tag.
+</video> 
+	<figcaption>
+		<details>
+		<summary>Caption Text</summary>
+		<h5>Unedited captions: Multiple speakers</h5>
+		<p>so crew doesn't have to actually place a<br/>
+		camera the ground can just fly up the crew</p>
+		<p>can take all of the Selfies that they want<br/>
+		that's right yeah there's actually there is</p>
+		<p>a touchcreen on the front also so that crew<br/>
+		can also interact with the robot oh cool</p>
+		<h5>Edited captions: Multiple speakers</h5>
+		<p>(Maria)</br>
+			So, crew doesn't have<br/>
+		to actually place a camera.</p>
+		<p>The ground contollers can just fly up--</p>
+		<p>(Host #1)<br>
+		So the crew can take all of the Selfies that they want?</p>
+		<p>[Laughter]</br>
+		[Crosstalk]</p>
+		<p>(Host #2)<br/>
+			That's actually the goal here,<br/>
+		I think</p>
+		<p>(Maria)<br/>
+			There is a touch screen<br/>
+		on the front also</p>
+		<p>so that crew can also interact</br>
+		with the robot.</p>
+		<p>(Host #2)<br/>
+		Oh cool!</p>
+	</details>
+	</figcaption>
+</figure>
 
 ### Added sounds
 Auto-generated captions will generally only capture speech. For captions to be equal, non-speech sounds should be included. Other sounds like music or sound effects should be added to captions in brackets. For example `[door slamming]`. There are several ways you might capture music and sounds in captions
