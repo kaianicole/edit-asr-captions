@@ -40,12 +40,12 @@ Compare the closed captions on the two videos below. The first video uses captio
 ### Video with unedited captions
 <figure>
 <video width="560" height="315" controls>
-  <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
+  <source src="videos/FirstExample.mp4" type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
     srclang="en"
-    src="videos/Evolution_of_Galaxies_H264~medium_uneditedcaptions-en.vtt"
+    src="videos/FirstExample_uneditedcaptions-en.vtt"
     default />
   Your browser does not support the video tag.
 </video> 
@@ -60,12 +60,12 @@ Compare the closed captions on the two videos below. The first video uses captio
 ### Video with edited captions
 <figure>
 <video width="560" height="315" controls>
-  <source src="videos/Evolution_of_Galaxies_H264~medium.mp4" type="video/mp4">
+  <source src="videos/FirstExample.mp4" type="video/mp4">
   	<track
     label="English"
     kind="subtitles"
     srclang="en"
-    src="videos/Evolution_of_Galaxies_H264~medium_editedcaptions-en.vtt"
+    src="videos/FirstExample_editedcaptions-en.vtt"
     default />
   Your browser does not support the video tag.
 </video> 
@@ -169,6 +169,41 @@ Captioning conventions vary on how they approach these situations. Make editoria
 - Spelling: If a speaker spells out a word, type out the letters with dashes between. For example: `H-E-L-L-O`
 - Websites: Put in the url as it would appear in a browser, even if the speaker spells it out. `www.dcmp.org`
 - Quoted material: If the speaker is quoting/reading someone else, but a quotation mark at the front of each caption segment. Do not add a closing segment until they are finished.
+
+#### Example of quoted material
+{: .no_toc}
+<figure>
+<video width="560" height="315" controls>
+  <source src=“videos/QuotationExample.mp4” type="video/mp4">
+  	<track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src=“videos/QuotationExample_captions-en.vtt”
+    default />
+  Your browser does not support the video tag.
+</video> 
+	<figcaption>
+		<details>
+		<summary>Text of captions with a quotation</summary>
+		<p>(Jonny Kim)<br/>
+		And my favorite quote when I think<br/>
+		about purpose-driven service</p>
+		<p>is from the late Dr. Martin Luther King Jr.,<br/>
+		who said that,</p>
+		<p>"Everyone has the power for greatness.</p>
+		<p>"Not for fame, but greatness,</p>
+		<p>"because greatness<br/>
+		is determined by service."</p>
+		<p>And I love this quote<br/>
+		because Dr. King got it right.</p>
+		<p>Is that our lives are fulfilled,<br/>
+		and the lives of the people we love</p>
+		<p>are fulfilled when we have<br/>
+		a purpose-driven life.</p>
+	</details>
+	</figcaption>
+</figure>
 
 ***
 
