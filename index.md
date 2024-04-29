@@ -11,18 +11,22 @@ Media has become an important form of communication. The media we produce must i
 
 ## Table of contents
 {: .no_toc .text-delta }
+
 - TOC
 {:toc}
 
 ***
 
 ## Who is this guide for?
+
 This guide is designed for people new to providing closed captions on video. This guide will help you make your media accessible, even if you don't have the budget for professional captioning or transcription.
 
 ## About auto-generated captions
+
 Auto-generated captions, also known as automatic captions or Automatic Speech Recognition (ASR) captions, use machine learning to turn audio into written text. These captions can be accurate. However, they are not accurate enough to meet accessibility guidelines or users needs. Auto-generated captions need a human editor to fix mistakes and add elements like speaker names or sound effects to the captions for full accessibility. 
 
 ### When to add
+
 When producing a video, build in time towards the end of your project for editing captions. Be sure that you've made all needed edits to your media, then upload it to your video hosting platform of choice (for example, YouTube). If you edit your captions, and then need to change your media, you will have to start over. Your video platform will take some time to generate captions. Once complete, you can edit them as a final step before publishing.
 
 ### Platform-specific resources
@@ -131,7 +135,8 @@ When editing captions, best practices and guidelines can help you craft useful a
 > - Readable: Captions are displayed with enough time to be read completely, are in synchronization with the audio, and are not obscured by (nor do they obscure) the visual content.
 > - Equal: Equal access requires that the meaning and intention of the material is completely preserved.
 > 
-> [*Elements of Quality Captioning*](https://dcmp.org/learn/599-captioning-key---elements-of-quality-captioning) from the DCMP
+> [*Elements of Quality Captioning*](https://dcmp.org/learn/599-captioning-key---elements-of-quality-captioning) from the DCMP  
+
 
 > Tip: Don't let perfect be the enemy of good
 >
@@ -141,15 +146,20 @@ When editing captions, best practices and guidelines can help you craft useful a
 ***
 
 ## Proofreading
+
 ### Punctuation
+
 Depending on the platform used, the auto-generated captions may or may not have punctuation added. Captions should be punctuated to promote readability and understanding. If your captions do not have punctuation, add it as you edit. If your captions have punctuation, make sure that the placement is correct. Occasionally, the caption generator will misinterpret pauses and add punctuation that does not reflect the message being communicated.
 
 As humans do not always speak in fully formed, gramatically correct sentences, use your best judgement. In general, simple punctuation and multiple shorter sentences are better. Remember, only a portion of the sentence will appear on screen at a time, so use parenthesis and semi-colons sparingly. Your edits should support understanding, not distract. 
 
 ### Spelling
+
 Check the spelling of words and that the auto-generated captions have the correct word. Some caption editors will have spellcheck built in.
+
 #### Common errors
 {: .no_toc}
+
 Watch for these common errors in your captions.
 - Names: Your captions may spell names incorrectly, or mistake them for other words. Always check names of people, places, and organizations/companies to confirm they are spelled correctly.
 - Technical/scientific words: If your media uses technical or specialized language, the caption generator may mistake these terms for more common words. If you are not certain how to spell a term, search for the term or consult a subject matter expert.
@@ -167,6 +177,7 @@ Watch for these common errors in your captions.
 {: .important-title }
 
 ### False starts, filler words, repeated words, and more
+
 Many speakers may use filler words (um, uh) or repeat the same word multiple times in a row while they speak. They may also make a false start in their speech, then start over. These elements do not need to be captured in captions.
 - Delete filler words
 - Only use one instance of a repeated or stammered word
@@ -175,6 +186,7 @@ Many speakers may use filler words (um, uh) or repeat the same word multiple tim
 Captioning conventions vary on how they approach these situations. Make editorial choices that prioritize understandability and readability of the captions. 
 
 ### General practices
+
 - Numbers: spell out `one` to `ten`, use numerals for the rest. 
 	- Spell out numbers at the beginning of sentence. `Thirty people attended the event.`
 	- Do not mix methods spelled out and numerals in the same sentence, but choose one method and stick with it.
@@ -186,6 +198,7 @@ Captioning conventions vary on how they approach these situations. Make editoria
 
 #### Example of quoted material
 {: .no_toc}
+
 <figure>
 <video width="560" height="315" controls preload="auto">
   <source src="videos/QuotationExample.mp4" type="video/mp4">
@@ -223,9 +236,11 @@ Captioning conventions vary on how they approach these situations. Make editoria
 ***
 
 ## Additions
+
 In addition to fixing errors made in the auto-generated captions, there may be additional information you need to add to the captions to make them useful.
 
 ### Speaker names
+
 If you have more than one voice speaking, you should capture who is speaking. To do so, add the speaker's name before the caption segment each time the speaker switches. There are several standard ways to denote a speaker:
 - `(Speaker Name)
 Captioned line of text`
@@ -237,6 +252,7 @@ Whichever method you choose, keep the following points in mind.
 - If you do not know a speaker's name, use an alternative such as `(Speaker #1)` or `(Narrator)`. 
 
 ### Crosstalk
+
 Crosstalk, when two or more speakers talk at the same time, can be another challenge to capture in captions. Note the crosstalk in captions with `[crosstalk]`. Then, there are several approaches.
 - If you cannot decipher what is said, use `[crosstalk]` to note this
 - If the crosstalk is brief enough, include one person's line right after the other (with speaker names). 
@@ -244,6 +260,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 
 #### Example of capturing speaker names and crosstalk
 {: .no_toc}
+
 <figure>
 <video width="560" height="315" controls>
   <source src="videos/MultipleSpeakersExample.mp4" type="video/mp4">
@@ -286,7 +303,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		Oh cool!</p>
 	</details>
 	</figcaption>
-	<p>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></p>
+	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></small></p>
 </figure>
 
 ### Added sounds
