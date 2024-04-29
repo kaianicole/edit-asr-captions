@@ -249,7 +249,7 @@ In addition to fixing errors made in the auto-generated captions, there may be a
 ### Speaker names
 
 If you have more than one voice speaking, you should capture who is speaking. To do so, add the speaker's name before the caption segment each time the speaker switches. There are several standard ways to denote a speaker:
-- `(Speaker Name)  
+- `(Speaker Name)<br>
 Captioned line of text`
 - `Speaker Name: Captioned line of text`
 
