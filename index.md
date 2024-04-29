@@ -393,8 +393,10 @@ The caption generator should set up the caption timings for you. You can manuall
 
 Many of the caption generators mentioned in this guide do not have settings for the position of the captions. If you can change this, make sure captions don't cover up other text. Keep them in a consistent spot.
 
-#### Tip: Plan for captions
-When producing your video, find out in advance where captions will be placed in the video platforms you will use. Make sure nothing appears in this space that will be covered up by captions (such as title cards, etc.) Alternatively, leave black space below the video for captions to display.
+> Tip: Plan for captions
+>
+> When producing your video, find out in advance where captions will be placed in the video platforms you will use. Make sure nothing appears in this space that will be covered up by captions (such as title cards, etc.) Alternatively, leave black space below the video for captions to display.
+{: .tip-title }
 
 ***
 
