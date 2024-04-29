@@ -1,4 +1,12 @@
-# just-the-docs-template
+# edit-asr-captions
+
+This site is a resource for beginners on editing auto-generated captions to make them more accessible. 
+
+Site created by Kaia Sievert. This work is licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/), which means you are free to reuse the content for non-commercial uses with attribution to the original project.
+
+This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll.
+
+## Original just-the-docs README
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
