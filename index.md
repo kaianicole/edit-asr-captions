@@ -7,6 +7,8 @@ layout: minimal
 
 Media has become an important form of communication. The media we produce must include accurate closed captions in order to make sure our media is useful and accessible to our audience. But even if we know captions are important, how do we get started adding them? This guide will walk you through one method to start producing high-quality captions: beginning with auto-generated captions provided by a video hosting platform and editing them for accuracy.
 
+***
+
 ## Table of contents
 {: .no_toc .text-delta }
 - TOC
