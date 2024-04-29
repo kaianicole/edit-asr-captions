@@ -64,7 +64,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 		<p>that whole process of galaxies forming and evolving over 13 plus billion years uh we've learned a lot about that but we're really missing a key piece of the puzzle which is how galaxies got their start so that's the piece that we haven't seen yet and that's the piece the James web Space Telescope will allow us to see for the very first time so the first stars in galaxies are really the big mystery for us we don't know how that happened we don't know when it happened we have a pretty good idea that they were very much larger than the Sun and that they would burn out in a tremendous burst of Glory in just a few million years which is really very short but they would also prepare the way for further generations of stars like the sun to be formed so those first Stars would produce the chemical elements of Life carbon and oxygen and nitrogen and iron and sulfur and calcium and all the things that were made of would have been produced in those first generations of stars that then explode and Liberate the material back out into space so the next generation of stars could form with planets with solid bodies and possibly have life</p><br/>
 	</details>
 	</figcaption>
-			<p>You can also view this video on YouTube: <a href="https://youtu.be/fvPtzsrFg2k">Unedited captions example: Evolution of galaxies</a></p>
+			<p><small>You can also view this video on YouTube: <a href="https://youtu.be/fvPtzsrFg2k">Unedited captions example: Evolution of galaxies</a></small></p>
 </figure>
 
 ### Video with edited captions
@@ -123,7 +123,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 		and possibly have life.</p>
 	</details>
 	</figcaption>
-	<p>You can also view this video on YouTube: <a href="https://youtu.be/vZ_OeFce1C8">Edited captions example: Evolution of galaxies</a></p>
+	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/vZ_OeFce1C8">Edited captions example: Evolution of galaxies</a></small></p>
 </figure>
 
 ***
@@ -231,7 +231,7 @@ Captioning conventions vary on how they approach these situations. Make editoria
 		a purpose-driven life.</p>
 	</details>
 	</figcaption>
-	<p>You can also view this video on YouTube: <a href="https://youtu.be/y-kn2yV6tGc">Captions with quotations example</a></p>
+	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/y-kn2yV6tGc">Captions with quotations example</a></small></p>
 </figure>
 
 ***
@@ -273,7 +273,6 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
     default />
   Your browser does not support the video tag.
 </video> 
-<p><small>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></small></p>
 	<figcaption>
 		<details>
 		<summary>Text of captions with multiple speakers</summary>
@@ -305,6 +304,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		Oh cool!</p>
 	</details>
 	</figcaption>
+	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></small></p>
 </figure>
 
 ### Added sounds
@@ -329,7 +329,6 @@ Auto-generated captions will generally only capture speech. For captions to be e
     default />
   Your browser does not support the video tag.
 </video> 
-<p><small>You can also view this video on YouTube: <a href="https://youtu.be/V2EqSed_fGI">Capturing music in captions example</a></small></p>
 	<figcaption>
 		<details>
 		<summary>Text of captions with music</summary>
@@ -350,7 +349,7 @@ Auto-generated captions will generally only capture speech. For captions to be e
 		so this is fun.</p>
 	</details>
 	</figcaption>
-	
+	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/V2EqSed_fGI">Capturing music in captions example</a></small></p>
 </figure>  
   
 
