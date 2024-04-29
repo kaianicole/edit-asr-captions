@@ -94,7 +94,7 @@ Compare the closed captions on the two videos below. The first video uses captio
 			but we're really missing</p>
 		<p>a key piece of the puzzle,<br/>
 		which is how galaxies got their start.</p>
-		<p>So that's the piecethat we haven't seen yet,<br/>
+		<p>So that's the piece that we haven't seen yet,<br/>
 		and that's the piece</p>
 		<p>the James Webb Space Telescope <br/>
 		will allow us to see for the very first time.</p>
@@ -305,12 +305,12 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		<p>[Laughter]<br/>
 		[Crosstalk]</p>
 		<p>(Host #2)<br/>
-			That's actually the goal here,<br/>
-		I think</p>
+		That's actually the goal here,<br/>
+		I think.</p>
 		<p>(Maria)<br/>
-			There is a touch screen<br/>
+		There is a touch screen<br/>
 		on the front also</p>
-		<p>so that crew can also interact</br>
+		<p>so that crew can also interact<br/>
 		with the robot.</p>
 		<p>(Host #2)<br/>
 		Oh cool!</p>
@@ -323,7 +323,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 
 Auto-generated captions will generally only capture speech. For captions to be equal, non-speech sounds should be included. Other sounds like music or sound effects should be added to captions in brackets. For example `[door slamming]`. There are several ways you might capture music and sounds in captions
 - If the name and/or artist of the song is known, add this information `[in brackets]`.
-- Song lyrics should be captioned. Add a ♪ before each sung caption segment. When singing ends, add two music notes `♪♪` after the last word.
+- Song lyrics should be captioned. Add a `♪` before each sung caption segment. When singing ends, add two music notes `♪♪` after the last word.
 - For background musice, write a short description that indicates mood. `[gentle piano music]`.
 - Sound effects or environmental sounds can also be capture in brackets, `[applause]`, `[cow mooing]` or in onomatopoeia `Mooooo`.
 - When relevant, capture the source of a sound. `[audience laughter]`.  
