@@ -7,8 +7,6 @@ url: https://kaianicole.github.io/edit-asr-captions/
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-color_scheme: asr_custom
-
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
 heading_anchors: true
@@ -23,17 +21,10 @@ permalink: pretty
 color_scheme: nil
 
 callouts_level: quiet
+
 callouts:
-  question:
-    color: yellow
   important:
-    color: yellow
-  new:
-    title: New
-    color: green
+    color: blue
   tip:
     color: purple
-  warning:
-    title: Warning
-    color: red
 
