@@ -21,17 +21,10 @@ permalink: pretty
 color_scheme: nil
 
 callouts_level: quiet
+
 callouts:
-  question:
-    color: yellow
   important:
-    color: yellow
-  new:
-    title: New
-    color: green
+    color: blue
   tip:
     color: purple
-  warning:
-    title: Warning
-    color: red
 
