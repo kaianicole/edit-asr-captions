@@ -14,10 +14,8 @@ Media has become an important form of communication. The media we produce must i
 
 ***
 
-> Who is this guide for?
->
-> This guide is designed for people new to providing closed captions on video. This guide will help you make your media accessible, even if you don't have the budget for professional captioning or transcription.
-{: .important-title }
+## Who is this guide for?
+This guide is designed for people new to providing closed captions on video. This guide will help you make your media accessible, even if you don't have the budget for professional captioning or transcription.
 
 ## About auto-generated captions
 Auto-generated captions, also known as automatic captions or Automatic Speech Recognition (ASR) captions, use machine learning to turn audio into written text. These captions can be accurate. However, they are not accurate enough to meet accessibility guidelines or users needs. Auto-generated captions need a human editor to fix mistakes and add elements like speaker names or sound effects to the captions for full accessibility. 
@@ -286,6 +284,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		Oh cool!</p>
 	</details>
 	</figcaption>
+	<p>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></p>
 </figure>
 
 ### Added sounds
