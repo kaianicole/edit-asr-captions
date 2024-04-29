@@ -30,6 +30,7 @@ Auto-generated captions, also known as automatic captions or Automatic Speech Re
 When producing a video, build in time towards the end of your project for editing captions. Be sure that you've made all needed edits to your media, then upload it to your video hosting platform of choice (for example, YouTube). If you edit your captions, and then need to change your media, you will have to start over. Your video platform will take some time to generate captions. Once complete, you can edit them as a final step before publishing.
 
 ### Platform-specific resources
+
 This guide is intended to help you know what to edit and add to auto-generated captions, regardless of the platform you use. For details on how to find and edit auto-generated captions on a specific platform, visit the following resources.
 - YouTube
 	- [Use automatic captioning](https://support.google.com/youtube/answer/6373554)
@@ -272,6 +273,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
     default />
   Your browser does not support the video tag.
 </video> 
+<p><small>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></small></p>
 	<figcaption>
 		<details>
 		<summary>Text of captions with multiple speakers</summary>
@@ -303,10 +305,10 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		Oh cool!</p>
 	</details>
 	</figcaption>
-	<p><small>You can also view this video on YouTube: <a href="https://youtu.be/BQMETxl_9QE">Captions with multiple people speaking example</a></small></p>
 </figure>
 
 ### Added sounds
+
 Auto-generated captions will generally only capture speech. For captions to be equal, non-speech sounds should be included. Other sounds like music or sound effects should be added to captions in brackets. For example `[door slamming]`. There are several ways you might capture music and sounds in captions
 - If the name and/or artist of the song is known, add this information `[in brackets]`.
 - Song lyrics should be captioned. Add a ♪ before each sung caption segment. When singing ends, add two music notes `♪♪` after the last word.
@@ -315,6 +317,7 @@ Auto-generated captions will generally only capture speech. For captions to be e
 - When relevant, capture the source of a sound. `[audience laughter]`.  
 
 #### Example of music in captions
+
 <figure>
 <video width="560" height="315" controls>
   <source src="videos/MusicExample.mp4" type="video/mp4">
@@ -326,6 +329,7 @@ Auto-generated captions will generally only capture speech. For captions to be e
     default />
   Your browser does not support the video tag.
 </video> 
+<p><small>You can also view this video on YouTube: <a href="https://youtu.be/V2EqSed_fGI">Capturing music in captions example</a></small></p>
 	<figcaption>
 		<details>
 		<summary>Text of captions with music</summary>
@@ -346,9 +350,9 @@ Auto-generated captions will generally only capture speech. For captions to be e
 		so this is fun.</p>
 	</details>
 	</figcaption>
-	<p>You can also view this video on YouTube: <a href="https://youtu.be/V2EqSed_fGI">Capturing music in captions example</a></p>
-</figure>
-<br/>
+	
+</figure>  
+  
 
 > Do I need to capture every sound?
 > 
@@ -358,18 +362,23 @@ Auto-generated captions will generally only capture speech. For captions to be e
 ***
 
 ## Display/Format
+
 When editing auto-generated captions, many timing and formatting decisions will already be made for you. As you add to and edit captions, keep the following guidelines in mind.
 
 ### Length
+
 Each caption segment should be one to two lines. Information like speaker name may be placed on a third line. A caption segment should display one to six seconds.
 
 ### Line breaks
+
 When breaking up lines within a caption segment or between caption segments, put breaks in logical places. Keep words that belong together together (for example, modifiers and modified, prepositional phrases, names, etc.) Don't end a sentence and start a new one on the same line. Start a new caption segment whenever the speaker switches.
 
 ### Timing
+
 The caption generator should set up the caption timings for you. You can manually adjust the start and end times as needed. If the timing is off for the entire video, it is better to start again.
 
 ### Position
+
 Many of the caption generators mentioned in this guide do not have settings for the position of the captions. If you can change this, make sure captions don't cover up other text. Keep them in a consistent spot.
 
 > Tip: Plan for captions
@@ -380,6 +389,7 @@ Many of the caption generators mentioned in this guide do not have settings for 
 ***
 
 ## Other approaches to captioning
+
 This approach to editing captions is just one method. Depending on your workflow, there may be alternative approaches to consider. 
 - Video editing software may have the ability to add or generate captions.
 	- Add captions while editing, and add them directly to the video so they always display.
@@ -389,9 +399,11 @@ This approach to editing captions is just one method. Depending on your workflow
 - Pay for professional captioning.
 
 ## Resources
+
 This guide is based on the [Described and Captioned Media Program's Captioning Key](https://dcmp.org/learn/captioningkey). While this guide will get you started in editing quality captions, the list of recommendations is not exhaustive. Consult the Captioning Key for more details.
 
 ## Credits
+
 Videos used for examples are published by NASA and are in the public domain. Specific videos include:
 - [Evolution of Galaxies](https://images.nasa.gov/details/Evolution_of_Galaxies_H264)
 - [NASA Astronauts Celebrate Asian American and Pacific Islander (AAPI) Heritage Month 2021 Advancing Leaders Through Purpose-Driven Service](https://images.nasa.gov/details/NASA%20Astronauts%20Celebrate%20Asian%20American%20and%20Pacific%20Islander%20%28AAPI%29%20Heritage%20Month%202021%20Advancing%20Leaders%20Through%20Purpose-Driven%20Service)
@@ -402,4 +414,4 @@ This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), 
 
 ***
 
-Site created by Kaia Sievert. This work is licensed under a (CC BY-NC 4.0 license)[https://creativecommons.org/licenses/by-nc/4.0/], which means you are free to reuse the content for non-commercial uses with attribution to the original project.
+Site created by Kaia Sievert. This work is licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/), which means you are free to reuse the content for non-commercial uses with attribution to the original project.
