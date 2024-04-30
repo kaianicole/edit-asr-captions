@@ -200,7 +200,7 @@ Captioning conventions vary on how they approach these situations. Make editoria
 
 - Numbers: spell out `one` to `ten`, use numerals for the rest. 
 	- Spell out numbers at the beginning of sentence. `Thirty people attended the event.`
-	- Do not mix methods spelled out and numerals in the same sentence. Choose one method and stick with it.
+	- Do not mix spelled out numbers and numerals in the same sentence. Choose one method and stick with it.
 	- There are many different considerations with numbers. If you want to explore more, visit the [DCMP Captioning Key - Numbers](https://dcmp.org/learn/captioningkey/606)
 - Capitalization: follow normal capitalization conventions. All caps indicates shouting. Use sparingly.
 - Spelling: If a speaker spells out a word, type out the letters with dashes between. For example: `H-E-L-L-O`
@@ -270,7 +270,7 @@ Whichever method you choose, keep the following points in mind.
 
 ### Crosstalk
 
-Crosstalk, when two or more speakers talk at the same time, can be another challenge to capture in captions. Note the crosstalk in captions with `[crosstalk]`. Then, there are several approaches.
+Crosstalk, when two or more speakers talk at the same time, can be another challenge to capture in captions. There are several approaches.
 - If you cannot decipher what is said, use `[crosstalk]` to note this.
 - If the crosstalk is brief enough, include one person's line right after the other (with speaker names). 
 - If there is a dominant voice that continues, capture the dominant voice.
@@ -303,7 +303,7 @@ Crosstalk, when two or more speakers talk at the same time, can be another chall
 		<p>(Maria)<br/>
 		So, crew doesn't have<br/>
 		to actually place a camera.</p>
-		<p>The ground contollers can just fly up--</p>
+		<p>The ground controllers can just fly up--</p>
 		<p>(Host #1)<br/>
 		So the crew can take all of the selfies that they want?</p>
 		<p>[Laughter]<br/>
@@ -387,7 +387,10 @@ Each caption segment should be one to two lines. Information like speaker name m
 
 ### Line breaks
 
-When breaking up lines within a caption segment or between caption segments, put breaks in logical places. Keep words that belong together together (for example, modifiers and modified, prepositional phrases, names, etc.) Don't end a sentence and start a new one on the same line. Start a new caption segment whenever the speaker switches.
+When breaking up lines within a caption segment or between caption segments, put breaks in logical places. 
+- Keep words that belong together together (for example, modifiers and modified, prepositional phrases, names, etc.) 
+- Don't end a sentence and start a new one on the same line. 
+- Start a new caption segment whenever the speaker switches.
 
 ### Timing
 
